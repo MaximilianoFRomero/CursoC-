@@ -1,0 +1,7 @@
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\bin\Debug\Decisiones.exe.config
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\bin\Debug\Decisiones.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\bin\Debug\Decisiones.pdb
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\obj\Debug\Decisiones.csproj.AssemblyReference.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\obj\Debug\Decisiones.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\obj\Debug\Decisiones.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Decisiones\Decisiones\obj\Debug\Decisiones.pdb

@@ -1,0 +1,7 @@
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\bin\Debug\TAREA2.exe.config
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\bin\Debug\TAREA2.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\bin\Debug\TAREA2.pdb
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\obj\Debug\TAREA2.csproj.AssemblyReference.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\obj\Debug\TAREA2.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\obj\Debug\TAREA2.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\TAREA2\TAREA2\obj\Debug\TAREA2.pdb
