@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Maximiliano Romero\\Escritorio\\csharp\\holamundo\\Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D878D136-0757-4B97-94F7-8A615931CD4C}|Condicionales\\Condicionales.csproj|d:\\users\\maximiliano romero\\escritorio\\csharp\\holamundo\\condicionales\\condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D878D136-0757-4B97-94F7-8A615931CD4C}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Maximiliano Romero\\Escritorio\\csharp\\holamundo\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeDocumentMoniker": "Condicionales\\Program.cs",
+              "ToolTip": "D:\\Users\\Maximiliano Romero\\Escritorio\\csharp\\holamundo\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeToolTip": "Condicionales\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:39:22.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

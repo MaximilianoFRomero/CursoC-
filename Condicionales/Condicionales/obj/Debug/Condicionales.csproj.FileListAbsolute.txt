@@ -1,0 +1,7 @@
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\bin\Debug\Condicionales.exe.config
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\bin\Debug\Condicionales.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\bin\Debug\Condicionales.pdb
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\obj\Debug\Condicionales.exe
+D:\Users\Maximiliano Romero\Escritorio\csharp\holamundo\Condicionales\Condicionales\obj\Debug\Condicionales.pdb

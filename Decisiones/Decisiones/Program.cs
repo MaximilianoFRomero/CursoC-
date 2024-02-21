@@ -21,6 +21,8 @@ namespace Decisiones
             //Operadores de comparacion
             Console.WriteLine(7 > 6);
             Console.WriteLine(6 < 7);
+            Console.WriteLine(6 <= 6);
+            Console.WriteLine(6 >= 6);
         }
     }
 }
